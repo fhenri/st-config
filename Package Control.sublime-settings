@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CTags",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"Grails",
+		"Indent XML",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements"
+	]
+}

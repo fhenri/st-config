@@ -5,14 +5,15 @@
 	],
 	"installed_packages":
 	[
-		"CTags",
-		"Emmet Css Snippets",
+		"BracketHighlighter",
+		"Emmet",
 		"Git",
 		"GitGutter",
-		"Grails",
 		"Indent XML",
 		"Package Control",
 		"Pretty JSON",
-		"SideBarEnhancements"
+		"Quick File Open",
+		"SideBarEnhancements",
+		"SublimeLinter"
 	]
 }

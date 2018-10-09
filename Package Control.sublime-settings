@@ -6,9 +6,11 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"CopyWithLineNumbersReloaded",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"Package Control",
 		"Pretty JSON",
